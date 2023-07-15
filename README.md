@@ -25,10 +25,9 @@ The planning tool I used are Trello Google Spreadsheets to keep track of the tas
 ## Instructions
 
 Here is an architectural diagram:
-![diagram](./Screenshot/diagram.png)
 Azure Cloud Shell
 
-![Azure Cloud Shell](./Screenshot/screenshots/azure-cloud-shell.png)
+![Azure Cloud Shell](./Screenshot/azure-cloud-shell.png)
 
 Azure CI
 
